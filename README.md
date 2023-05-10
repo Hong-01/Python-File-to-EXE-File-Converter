@@ -1,7 +1,7 @@
 # Python-File-to-EXE-File-Converter
 An easy way to convert your python file to exe file. To decrease the size of your exe file, you can select your own python environment for the convertsion.
 ## Introduction
-This converter can convert python file (“.py file”) to exe file
+Download the Python_to_EXE.exe to convert your python file. This converter can convert python file (“.py file”) to exe file
 
 ![image](https://github.com/Hong-01/Python-File-to-EXE-File-Converter/assets/88537757/26397b7a-9537-45fc-9a22-9653ac65a79f)
 
